@@ -1,1 +1,1 @@
-print("cu")
+print("oi")
